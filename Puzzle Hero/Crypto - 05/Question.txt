@@ -1,0 +1,9 @@
+Tous les entrées ci-dessous représente la valeur "csgames" encodé ou hashé. Identifiez le nom de l'algorithme de hashage ou le nom de l'encodage utilisé pour chaque entrée :
+
+ - 477cbed015420a1a8923c4ebb68cc646
+ - Y3NnYW1lcw==
+ - %63%73%67%61%6d%65%73
+ - ca48aca99bf3b952a56305050f86eeb422e90d3e
+ - a50aaf14c77970a80565f6d1cc51850d
+ - *2F5FD2319AE0721EE4A400DAB101B241D8E68D6B
+ - pftnzrf

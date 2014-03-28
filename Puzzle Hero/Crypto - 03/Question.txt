@@ -1,0 +1,4 @@
+Vous avez intercepté un message et l'algorithme d'encryption qui a été utilisé pour encrypter le message. Vous devez trouver la clé secrète (secretKey) qui a été envoyée dans le message.
+
+Note 1 : Le message se trouve dans le fichier "message.txt"
+Note 2 : L'algorithme d'encryption se trouve dans le fichier "csgames-crypto-03.js"

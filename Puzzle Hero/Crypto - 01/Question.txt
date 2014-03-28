@@ -1,0 +1,7 @@
+Un algorithme d'encryption fait à l'interne d'une compagnie a été mis à jour à cause d'une fuite. Plusieurs messages secrets ont été encrypté avec cet algorithme, décodé les !
+
+L'algorithme d'encryption se trouve dans le fichier csgames-crypto-01.js
+
+Messages encodés : 
+ - cdddd2aff0ebe4d7e4d7e4
+ - baf0e4f59ca5d2bba0d8ebddf0

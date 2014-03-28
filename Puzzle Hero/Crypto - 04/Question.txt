@@ -1,0 +1,5 @@
+Vous avez intercepté un message et l'algorithme d'encryption qui a été utilisé pour encrypter le message. Vous devez trouver le message qui a été envoyé.
+
+Note 1 : Le message envoyé est du texte seulement (pas de données binaire) et se trouve dans le fichier "message.txt".
+Note 2 : L'algorithme d'encryption se trouve dans le fichier "csgames-crypto-04.js".
+Note 3 : Vous pouvez assumer que la clé est d'une longeur entre 5 et 40 caractères.

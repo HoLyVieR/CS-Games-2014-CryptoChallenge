@@ -1,0 +1,5 @@
+Un de vos coéquipiers a décidé de créer ça propre fonction d'encryption pour les mots de passe. Tout fier de lui, ils vous met au défi d'y trouver une faille et vous fournit même une liste de mot de passe encrypté. Votre tâche est de montrer les faiblesses de sa fonction en décryptant le mot de passe de l'utilisateur "thatguy".
+
+Note 1 : Pour des raisons legacy les mots de de passe peuvent seulement contenir les caractères "afilortw13579".
+Note 2 : L'algorithme en question se trouve dans le fichier "csgames-crypto-02.js"
+Note 3 : Les mots de passe se trouvent dans le fichier "password-dump.txt" sous le format "hash:user".

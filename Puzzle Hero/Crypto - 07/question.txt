@@ -1,0 +1,5 @@
+Votre collègue de travail c'est développé une nouvelle application pour encrypté ces messages secrets. 
+Vous avez trouvé un message encrypté, ainsi que la source de son programme. Trouver le message qu'il a caché.
+
+Message encrypté : 
+d09e268648cc0684a2b34c4b87b017daa15f62d6f0afefc43917deae33ee919babc9b834457f2e3f6d62afe25bef3a7d9cf1fcaf40848950a052f9ee47a4f108d57e1b2220e4c3523f78c28f2baea2beb4d2c72b4e8d7b64d4d63c0a87010c97

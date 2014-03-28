@@ -1,0 +1,1 @@
+La clé secrète se trouve sur 1 bloc (le dernier) qui a la même valeur qu'un autre bloc dans le message.
